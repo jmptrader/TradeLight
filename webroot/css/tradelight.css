@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.ui-widget-content {
+    border: 1px solid #000000;
+    padding: 0px;
+    margin: auto;
+}
+
+.ui-widget-header {
+    background-color: #aaaaaa;
+    border-style: solid;
+    border-color: #000000;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 10px;
+}
+
+.tradelight-login {
+    border: 1px solid #000000;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: 100px;
+    width: 200px;
+    textAlign: center;
+}
+
+.tradelight-login-window {
+    text-align: left;
+    display: inline-block;
+}
+
+.tradelight-dashboard {
+
+}
